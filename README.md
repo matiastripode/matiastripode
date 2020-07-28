@@ -1,16 +1,43 @@
-### Hi there 👋
-
 <!--
 **matiastripode/matiastripode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+![background](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clicktraveltips.com%2Fwp-content%2Fuploads%2F2017%2F10%2FWhistler-canada.jpg&f=1&nofb=1)
+`Whistler Blackbomb (my place in the world)`
+
+## Hello World 👋
+
+`git config --global user.name "Matias Tripode"`
+
+
+💻 Software Engineering Manager at [Globant](www.globant.com) 
+
+🔭 I’m currently working on prototyping IoT solutions using AWS IoT Core 
+
+👯 I’m looking to collaborate on coaching developers to follow best practices 
+
+🌱 Vegetarian / Vegan 
+
+🥊 BJJ Fanatic
+
+ 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/matiastripode/) | [Twitter](https://twitter.com/TripodeMatias)
+
+## git log
+
+`=== 2012 - Present ===`
+## Globant LLC
+
+• **I bring to work every day empathy and profesionalism.** As a software engineering manager, it's the #1 tool we have to ensure success.
+
+`=== 2008 - 2012 ===`
+## Siemens
+
+• **Worked in Argentina, Germany, India and China.** As a software engineer, ....
+
+`=== 2006 - 2008 ===`
+## Aluar Aluminio Argentino
+• **Worked in Argentina.** As a software engineer, ....
+
+
+
