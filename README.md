@@ -34,7 +34,7 @@
 
 `=== 2020 - Present ===`
 
-### During COVID-19 Pandemic
+### What I've been learning during COVID-19 Pandemic
 
 #### Leadership
 - [OKR Goal Setting 101 - Achieve more goals than ever! Faster!](https://www.udemy.com/certificate/UC-4fef8dd3-51b5-4b47-9de1-2aba1e08dfbd/)
@@ -71,6 +71,7 @@
 ## Globant LLC
 
 • **I bring to work every day empathy and profesionalism.** As a software engineering manager, it's the #1 tool we have to ensure success.
+
 
 `=== 2008 - 2012 ===`
 
