@@ -59,6 +59,7 @@ Image: [Whistler Blackcomb](https://www.whistlerblackcomb.com/) (my place in the
 - [IoT Business Impact](https://www.udemy.com/certificate/UC-7e995d59-fce3-4c9e-87f6-157f369234da/)
 - [IoT Master Class](https://www.udemy.com/certificate/UC-5cebb3b0-1616-4db8-a8ad-9a1eb05f0367/)
 - [Arduino Programming](https://www.udemy.com/certificate/UC-376726c7-7baa-430e-b338-600a93d6ff87/)
+- [Advanced ESP32](https://www.udemy.com/certificate/UC-906c70b3-8c87-41ef-9a4e-ff2abbe633b1/)
 
 #### Books I read
 - [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/)
