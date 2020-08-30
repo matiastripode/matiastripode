@@ -10,9 +10,6 @@ Image: [Whistler Blackcomb](https://www.whistlerblackcomb.com/) (my place in the
 ![background]<img align='center' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clicktraveltips.com%2Fwp-content%2Fuploads%2F2017%2F10%2FWhistler-canada.jpg&f=1&nofb=1' height='450' width='900"'>
 -->
 
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 ## Hello World 👋
 
 `git config --global user.name "Matias Tripode"`
