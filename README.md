@@ -15,7 +15,7 @@ Image: [Whistler Blackcomb](https://www.whistlerblackcomb.com/) (my place in the
 `git config --global user.name "Matias Tripode"`
 
 
-💻 Software Engineering Manager at [Globant](www.globant.com) 
+💻 iOS Architect / Tech Lead at [Globant](www.globant.com) 
 
 🔭 I’m currently working on prototyping IoT solutions using AWS IoT Core 
 
